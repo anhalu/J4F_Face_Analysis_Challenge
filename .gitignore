@@ -1,0 +1,13 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+*.txt
+*.csv
+*.pdiparams
+*.pdiparams.info
+*.inference.pdmodel
+*.zip
+
+
